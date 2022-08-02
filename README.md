@@ -1,2 +1,2 @@
-# travel
-The project of Stage#0 (RS School)
+# bulgakovatodays-JSFEPRESCHOOL2022Q2
+Private repository for @bulgakovatodays
